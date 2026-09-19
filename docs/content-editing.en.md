@@ -18,7 +18,7 @@ There is no separate login or admin panel — **GitHub is the admin panel.**
 
 **The basic loop, every time:**
 
-1. Go to the repository: `https://github.com/<owner>/fsc-website`
+1. Go to the repository: `https://github.com/fly-squash-club/fsc-website`
 2. Click into the file you want to change (paths are given below).
 3. Click the **pencil icon** (✏️ "Edit this file") at the top right.
 4. Make your change.

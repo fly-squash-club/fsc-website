@@ -17,7 +17,7 @@
 
 **每次修改的固定步骤：**
 
-1. 打开代码仓库：`https://github.com/<账号>/fsc-website`
+1. 打开代码仓库：`https://github.com/fly-squash-club/fsc-website`
 2. 点击进入需要修改的文件（下文会列出具体路径）。
 3. 点击右上角的**铅笔图标**（✏️ Edit this file）。
 4. 修改内容。

@@ -20,33 +20,41 @@ each must be transferred separately.
 
 ## 1. GitHub — the source code
 
-**Current state:** repository `ckttam/fsc-website`, owned by a personal account.
+**Current state:** the code already lives in a club-owned organisation:
+**https://github.com/fly-squash-club/fsc-website**
 
-**Recommended:** create a GitHub **organisation** for the club (e.g. `fly-squash-club`)
-and transfer the repository into it. An organisation survives staff changes; a
-personal account does not.
+Because it is in an organisation rather than a personal account, **nothing needs
+to be transferred** — handing over is just a matter of adding the club's own
+GitHub account as an Owner. The repository URL never changes, so the Vercel
+connection keeps working untouched.
+
+The repository is **public**. It contains no passwords, keys or private data —
+only the website's own code, the images already published on the site, and this
+documentation. (Vercel's free plan cannot deploy a private organisation
+repository; making it public avoids a subscription. If the club would rather it
+were private, upgrade Vercel to Pro and switch the repository to private.)
 
 **Steps**
-1. Club creates a GitHub account, then an organisation, using the club email.
-2. Current owner: repo → **Settings** → **General** → **Danger Zone** →
-   **Transfer ownership** → enter the club organisation.
-3. Club accepts the transfer (email confirmation).
-4. Add at least **two** people as organisation Owners, so no single person is a
-   bottleneck.
-5. Confirm the repository is **Private** unless you specifically want it public.
+1. Club creates a GitHub account using the club email.
+2. An existing org Owner: **https://github.com/orgs/fly-squash-club/people** →
+   **Invite member** → enter that account → role **Owner**.
+3. Club accepts the emailed invitation.
+4. Keep at least **two** Owners, so no single person is a bottleneck.
+5. The previous owner can then step down — or stay on as a second Owner.
 
 **Checklist**
 - [ ] Club GitHub account created with the club email
-- [ ] Organisation created
-- [ ] Repository transferred and accepted
+- [ ] That account invited as an organisation Owner, and accepted
 - [ ] Two or more owners have access
-- [ ] Vercel reconnected after the transfer (see note in section 2)
+- [ ] Previous owner removed, if that's the intention
 
 ---
 
 ## 2. Vercel — the hosting
 
-**Current state:** project `fsc-dynamic`, under a personal Vercel account.
+**Current state:** project `fsc-dynamic`, under a personal Vercel account, and
+already connected to the GitHub repository — every push to `main` deploys to
+production automatically.
 
 Vercel builds the site whenever the code changes and serves it worldwide. The
 free (Hobby) tier is sufficient for this site. Note that Vercel's free tier is
