@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "sitemap": "Sitemap",
+    "home": "Home",
+    "about": "About Us",
+    "coaches": "Our Team",
+    "players": "Our Athletes",
+    "activities": "Programs",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Fly Squash Club",
+      "subtitle": "Developing the next generation of China's squash athletes",
+      "eyebrow": "Shanghai's Premier Squash Destination",
+      "cta": "Get in Touch",
+      "stats": {
+        "locations": "Locations",
+        "courts": "Professional Courts",
+        "coaches": "Expert Coaches"
+      }
+    },
+    "intro": {
+      "title": "Welcome to FSC",
+      "description": "Fly Squash Club is a world-class squash facility located in the heart of Shanghai. We offer top-tier coaching, professional courts, and a vibrant community for players of all levels."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Fly Squash Club is dedicated to promoting squash across China and helping young athletes pursue excellence on court. An experienced coaching team, modern training philosophy, and world-class facilities make us the destination of choice for squash players nationwide.",
+    "features": {
+      "courts": {
+        "title": "Pro-Level Courts",
+        "text": "World-class facilities meeting international standards"
+      },
+      "coaching": {
+        "title": "Expert Coaching",
+        "text": "Learn from nationally ranked professional coaches"
+      },
+      "community": {
+        "title": "Vibrant Community",
+        "text": "Join a passionate community of squash enthusiasts"
+      }
+    }
+  },
+  "coaches": {
+    "title": "Our Team",
+    "description": "Meet the coaches behind every breakthrough on the FSC court.",
+    "list": {
+      "jack": { "name": "Jack Wang", "role": "Founder · S-Level Coach", "experience": "15+ Years" },
+      "lim":  { "name": "Lim Chee Ming", "role": "Coaching Director", "experience": "20+ Years" },
+      "celine": { "name": "Celine Yeap", "role": "A-Level Consultant", "experience": "8+ Years" },
+      "ivan": { "name": "Ivan Yuen", "role": "S-Level Consultant" },
+      "xiaoxia": { "name": "Xiaoxia Hu", "role": "A-Level Coach" },
+      "gigi": { "name": "GiGi Yeung", "role": "A-Level Coach" },
+      "blackhu": { "name": "Black Hu", "role": "B-Level Coach" },
+      "ali": { "name": "Mohamed Ali", "role": "B-Level Coach" }
+    }
+  },
+  "players": {
+    "title": "Our Athletes",
+    "description": "Celebrating the players who train, compete, and represent FSC on the national stage.",
+    "list": {
+      "ng": {
+        "name": "Ng Eain Yow",
+        "title": "Honorary Athlete"
+      },
+      "hu": {
+        "name": "Black Hu",
+        "title": "National Champion"
+      },
+      "kenneth": {
+        "name": "Kenneth Shi",
+        "title": "Champion · National Youth Squash Championship, BU17"
+      },
+      "angela": {
+        "name": "Angela Zhu",
+        "title": "Champion · National Youth Squash Championship, GU15"
+      }
+    }
+  },
+  "activities": {
+    "title": "Programs",
+    "eyebrow": "Get Involved",
+    "description": "From one-on-one coaching to community events, find the program that fits how you want to grow.",
+    "cta": "Enquire Now",
+    "list": {
+      "personal": {
+        "title": "Personal Training",
+        "text": "One-on-one coaching tailored to your technique, fitness, and competitive goals."
+      },
+      "group": {
+        "title": "Group Courses",
+        "text": "Small-group sessions that build skills, fitness, and the friendships that keep you on court."
+      },
+      "social": {
+        "title": "Social Events",
+        "text": "Tournaments, league nights, and themed gatherings that bring the FSC community together."
+      },
+      "camp": {
+        "title": "Special Training Camp",
+        "text": "Intensive multi-day camps led by elite coaches and visiting international pros."
+      }
+    }
+  },
+  "news": {
+    "title": "Latest News",
+    "eyebrow": "Stay Updated",
+    "description": "Updates on our club, our athletes, and the squash community we're proud to be part of.",
+    "readMore": "Read More",
+    "list": {
+      "camp": {
+        "tag": "Announcement",
+        "title": "FSC Master Training Camp — Big Reveal",
+        "body": "International masters return to FSC. Elite Squash's Hadrian Stiff and FSC signed player NG Eain Yow co-lead two exclusive camps. Session 1 · Hongqiao · July 21–25. Session 2 · Longyang · July 27–31. Contact your local instructor to secure a spot."
+      },
+      "magazine": {
+        "tag": "Feature",
+        "title": "FSC — Seen because we put in the work",
+        "body": "Five years. Three locations. Eleven glass courts. Thank you to Squash Player magazine for shining a light on Shanghai, and on the squash scene growing across China."
+      },
+      "tournament": {
+        "tag": "Event",
+        "title": "2026 Shanghai Women's Spring Open · A Successful Wrap",
+        "body": "The FSC Women's Spring Open closed in style. Huge thanks to title sponsor Dunlop (＠Dunlop Tennis) — players left with thoughtful gifts and fresh flowers, making the Women's Day weekend on court one to remember."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "eyebrow": "Get In Touch",
+    "description": "Reach out — whether you're new to the sport or chasing your next title.",
+    "email": "Email",
+    "wechat": "WeChat Official",
+    "wechatScan": "Scan to follow our WeChat",
+    "location": "Locations",
+    "socials": "Follow Us",
+    "followHint": "Scan to follow FSC across platforms",
+    "stores": {
+      "hongqiao": {
+        "name": "Hongqiao",
+        "address": "288 Zhuguang Road, Qingpu District, Shanghai",
+        "phone": "153 1689 8019"
+      },
+      "longyang": {
+        "name": "Longyang",
+        "address": "2233 Longyang Road, Pudong New Area, Shanghai",
+        "phone": "153 1692 7005"
+      },
+      "yangpu": {
+        "name": "Yangpu",
+        "address": "2100 Songhu Road, Yangpu District, Shanghai",
+        "phone": "189 1633 4089"
+      }
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "comingSoon": "Coming Soon"
+  }
+}

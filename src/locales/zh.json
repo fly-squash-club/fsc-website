@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "sitemap": "网站导航",
+    "home": "首页",
+    "about": "关于我们",
+    "coaches": "我们的团队",
+    "players": "我们的运动员",
+    "activities": "训练项目",
+    "news": "最新动态",
+    "contact": "联系我们"
+  },
+  "home": {
+    "hero": {
+      "title": "藤飞壁球俱乐部",
+      "subtitle": "培养中国下一代壁球运动员",
+      "eyebrow": "上海顶级壁球训练基地",
+      "cta": "联系我们",
+      "stats": {
+        "locations": "训练场馆",
+        "courts": "专业球场",
+        "coaches": "专业教练"
+      }
+    },
+    "intro": {
+      "title": "欢迎来到 FSC",
+      "description": "藤飞壁球俱乐部是位于上海的世界级壁球训练中心。我们提供顶级教练、专业球场，以及充满活力的社区，适合各级别的球员。"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "description": "藤飞壁球俱乐部以推广普及壁球运动为己任，助力青少年运动员在壁球运动中追求卓越，实现梦想。经验丰富的教练团队，先进的教学理念和完善的场馆设施让我们成为中国壁球爱好者的首选目的地。",
+    "features": {
+      "courts": {
+        "title": "专业级球场",
+        "text": "符合国际标准的顶尖设施"
+      },
+      "coaching": {
+        "title": "专业指导",
+        "text": "向全国顶尖职业教练学习"
+      },
+      "community": {
+        "title": "活力社区",
+        "text": "加入热情洋溢的壁球爱好者大家庭"
+      }
+    }
+  },
+  "coaches": {
+    "title": "我们的团队",
+    "description": "认识我们的教练团队——每一次进步背后的支撑力量。",
+    "list": {
+      "jack": { "name": "王骏杰", "role": "创始人 · S级教练", "experience": "15+ 年" },
+      "lim":  { "name": "林资岷", "role": "教练总监", "experience": "20+ 年" },
+      "celine": { "name": "叶淑婉", "role": "A级顾问", "experience": "8+ 年" },
+      "ivan": { "name": "Ivan Yuen", "role": "S级顾问" },
+      "xiaoxia": { "name": "Xiaoxia Hu", "role": "A级教练" },
+      "gigi": { "name": "GiGi Yeung", "role": "A级教练" },
+      "blackhu": { "name": "胡佳灝", "role": "B级教练" },
+      "ali": { "name": "Mohamed Ali", "role": "B级教练" }
+    }
+  },
+  "players": {
+    "title": "我们的运动员",
+    "description": "致敬在藤飞训练、征战赛场、代表中国壁球的运动员们。",
+    "list": {
+      "ng": {
+        "name": "吴恩佑",
+        "title": "藤飞壁球荣誉球员"
+      },
+      "hu": {
+        "name": "胡佳灝",
+        "title": "全国冠军"
+      },
+      "kenneth": {
+        "name": "史昱熙",
+        "title": "全国青少年壁球锦标赛 BU17 男子组冠军"
+      },
+      "angela": {
+        "name": "朱辰轩",
+        "title": "全国青少年壁球锦标赛 GU15 女子组冠军"
+      }
+    }
+  },
+  "activities": {
+    "title": "训练项目",
+    "eyebrow": "参与其中",
+    "description": "从一对一私教到社区活动，总有一款适合你的训练方式。",
+    "list": {
+      "personal": {
+        "title": "私教课",
+        "text": "针对个人技术、体能水平与竞技目标量身定制的一对一指导。"
+      },
+      "group": {
+        "title": "团课",
+        "text": "小班教学，提升技术与体能，并结识志同道合的球友。"
+      },
+      "social": {
+        "title": "活动",
+        "text": "比赛、联赛之夜和主题聚会，让藤飞社区欢聚一堂。"
+      },
+      "camp": {
+        "title": "特训营",
+        "text": "由顶尖教练与国际职业球员领衔的多日强化训练营。"
+      }
+    }
+  },
+  "news": {
+    "title": "最新动态",
+    "eyebrow": "持续关注",
+    "description": "俱乐部公告、球员动态以及我们所在的壁球世界。",
+    "readMore": "查看详情",
+    "list": {
+      "camp": {
+        "tag": "重磅预告",
+        "title": "藤飞壁球大师特训营 重磅预告",
+        "body": "国际壁球名师再度亲临，本次 Elite Squash 名教 Hadrian Stiff & 藤飞签约球员吴恩佑（NG Eain Yow）双双坐镇！两期专属特训：※第一期·虹桥店｜7 月 21 日 – 7 月 25 日；※第二期·龙阳店｜7 月 27 日 – 7 月 31 日。更多课程详情 & 报名信息，欢迎联系各店教务老师，锁定席位抢占先机！"
+      },
+      "magazine": {
+        "tag": "媒体报道",
+        "title": "藤飞壁球｜不是被看见才努力，是努力才被看见",
+        "body": "五年。三店。十一片玻璃球场。感谢《Squash Player》的关注，看见上海，看见正在生长的中国壁球。"
+      },
+      "tournament": {
+        "tag": "赛事回顾",
+        "title": "2026 上海女子壁球春季赛｜圆满落幕",
+        "body": "藤飞壁球女子春季赛完美收官！感谢赛事冠名邓禄普 ＠Dunlop Tennis 的给力支援，让大家在赛事之余，手握贴心好礼、怀抱鲜花，女神节的运动仪式感直接拉满！"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "eyebrow": "保持联系",
+    "description": "无论你是壁球新手还是争冠选手，欢迎随时与我们联系。",
+    "email": "官方邮箱",
+    "wechat": "微信公众号",
+    "wechatScan": "扫码关注我们的微信公众号",
+    "location": "门店地址",
+    "socials": "关注我们",
+    "followHint": "扫码关注藤飞壁球各平台账号",
+    "stores": {
+      "hongqiao": {
+        "name": "虹桥店",
+        "address": "上海市青浦区诸光路 288 号",
+        "phone": "153 1689 8019"
+      },
+      "longyang": {
+        "name": "龙阳店",
+        "address": "上海市浦东新区龙阳路 2233 号",
+        "phone": "153 1692 7005"
+      },
+      "yangpu": {
+        "name": "杨浦店",
+        "address": "上海市杨浦区淞沪路 2100 号",
+        "phone": "189 1633 4089"
+      }
+    }
+  },
+  "footer": {
+    "rights": "版权所有"
+  },
+  "common": {
+    "comingSoon": "敬请期待"
+  }
+}
