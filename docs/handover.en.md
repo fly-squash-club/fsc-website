@@ -18,6 +18,36 @@ each must be transferred separately.
 
 ---
 
+## Where things stand today
+
+| | Status | What's needed |
+|---|---|---|
+| Source code — GitHub | ✅ **Ready.** Lives at `fly-squash-club/fsc-website` | Accept an Owner invitation (§1) |
+| Hosting — Vercel | ⏳ Still on the previous owner's account | Ask them to transfer it (§2) |
+| Domain — GoDaddy | ⏳ Still on the previous owner's account | Ask them to transfer it (§3) |
+
+**The website already updates itself.** Changes pushed to GitHub deploy to
+flysquash.com automatically, within about a minute. That works today and is not
+affected by the transfers below — so there is no rush, and nothing breaks while
+the accounts stay where they are.
+
+### When you're ready, ask for these three things
+
+Contact whoever built the site and request, in this order:
+
+1. **Owner access to the GitHub organisation** `fly-squash-club` — tell them the
+   email address of the club's GitHub account
+2. **Transfer of the Vercel project** `fsc-dynamic` — create a club Vercel
+   account first (sign in with the club's GitHub account) and give them its name
+3. **Transfer of the domain** `flysquash.com` at GoDaddy — create a club GoDaddy
+   account first and give them the email address on it
+
+Do them in that order. The domain is last because it is the only one with a
+renewal bill attached, and the only one that is genuinely hard to recover if it
+lapses.
+
+---
+
 ## 1. GitHub — the source code
 
 **Current state:** the code already lives in a club-owned organisation:
